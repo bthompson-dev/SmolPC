@@ -33,3 +33,17 @@ All models run fully offline on your PC (Granite for keywording, Distil-Whisper 
 **Main Application:** [TextLocator AI Assistant](https://github.com/FierceWind1287/ai-textlocator)  (WPF UI, Lucene.Net + Jieba.NET)  
 **Keyword Service:** KeywordService.exe (LlamaSharp + Granite 3.3 2B, local keyword extraction)  
 **ASR Bridge:** WhisperBridge.dll (OpenVINO + Distil-Whisper, called via WhisperNative.cs)  
+
+### AI Assistant for Excel
+
+**Author:** Clara Cen  
+**Contact:** claracenn@gmail.com  
+
+The AI Assistant for Excel brings natural-language interaction directly into spreadsheets. Instead of navigating cells or recalling formulas, you can simply ask questions or request summaries, and the assistant will generate clear, contextual answers within Excel.  
+
+The add-in also supports detailed explanations of financial formulas, voice input through integrated speech transcription, a history view for revisiting past queries, and adjustable verbosity modes for concise or in-depth answers. All processing runs locally, ensuring that the data remains private and accessible without an internet connection.  
+  
+**Main Appliation** [FinLite ExcelAddIn](https://github.com/claracenn/FinLite-ExcelAddIn)  
+**MSI Installer**: [Download Here](https://liveuclac-my.sharepoint.com/my?id=%2Fpersonal%2Fucabbce%5Fucl%5Fac%5Fuk%2FDocuments%2Fsetup%2Ezip&parent=%2Fpersonal%2Fucabbce%5Fucl%5Fac%5Fuk%2FDocuments)  
+
+*To install: unzip the archive and double-click `setup.msi`.*  
