@@ -20,7 +20,7 @@ All AI models are run locally on-device, so it does not need an internet connect
 
 ### AI Assistant for TextLocator
 
-**Author:** Jinshuo Liu
+**Author:** Jinshuo Liu  
 **Contact:** [liujinshuo3@gmail.com](mailto:liujinshuo3@gmail.com)
 
 The AI Assistant for TextLocator integrates local AI into the open-source desktop search app [TextLocator](https://github.com/liulei901112/TextLocator) (WPF/.NET Framework). It lets you type a natural-language request, automatically extracts 3–5 core keywords on-device, and runs a classic Lucene search—so you can find files by meaning, not just exact terms.
@@ -30,6 +30,6 @@ e.g. “Find recent presentations about blockchain pilots with supply-chain trac
 The app also offers voice transcription via Whisper (OpenVINO), so you can speak instead of typing.
 All models run fully offline on your PC (Granite for keywording, Distil-Whisper for ASR), keeping data private and usable without internet.
 
-**Main Application:** [TextLocator AI Assistant](https://github.com/FierceWind1287/ai-textlocator)  (WPF UI, Lucene.Net + Jieba.NET)
-**Keyword Service:** KeywordService.exe (LlamaSharp + Granite 3.3 2B, local keyword extraction)
-**ASR Bridge:** WhisperBridge.dll (OpenVINO + Distil-Whisper, called via WhisperNative.cs)
+**Main Application:** [TextLocator AI Assistant](https://github.com/FierceWind1287/ai-textlocator)  (WPF UI, Lucene.Net + Jieba.NET)  
+**Keyword Service:** KeywordService.exe (LlamaSharp + Granite 3.3 2B, local keyword extraction)  
+**ASR Bridge:** WhisperBridge.dll (OpenVINO + Distil-Whisper, called via WhisperNative.cs)  
