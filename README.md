@@ -67,6 +67,7 @@ The AI Assistant to turn story text into audio, with customized voice narrative.
 
 The AI Assistant for Texteidtor integrates local AI into the open-source desktop text editing app QOwnNotes (MFC Framework). It helps you editing text contents such as text summarizing, polishing, translating. You can also ask any related questions in terms of the fields the text contents involved. 
 e.g. “summary the above deep learning article and explain what does the term segmentation mean? Can you give me an additional example of the segmentation”
+
 The app also offers voice transcription via Distil-Whisper (OpenVINO), so you can speak instead of typing. All models run fully offline on your PC (Granite for dealing with the question asked by the users, keeping data private and usable without internet.
 It also offers RAG（Retrieval-Augmented Generation）to improve the local interaction with the LLM model.
 
