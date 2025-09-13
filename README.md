@@ -47,3 +47,13 @@ The add-in also supports detailed explanations of financial formulas, voice inpu
 **MSI Installer**: [Download Here](https://liveuclac-my.sharepoint.com/my?id=%2Fpersonal%2Fucabbce%5Fucl%5Fac%5Fuk%2FDocuments%2Fsetup%2Ezip&parent=%2Fpersonal%2Fucabbce%5Fucl%5Fac%5Fuk%2FDocuments)  
 
 *To install: unzip the archive and double-click `setup.msi`.*  
+
+### AI Assistant for Generating Voiceover of Storybooks - ReadinTime (Voice) V1.5
+
+**Author:** Jiawei Tan 
+**Contact:** [jiaweitan531@gmail.com](mailto:jiaweitan531@gmail.com)
+
+The AI Assistant to turn story text into audio, with customized voice narrative. It can run on CPU of Intel machine, offering personalized reading experience. This project is based on arBooks application of previous UCL computer science students (Pranay Vaka et.al)
+
+**Main Application:** [ReadinTime (Voice) V1.5](https://github.com/Jack5316/ReadinTime-V1.5)
+**Zip-Folder:**[Zip-Folder](https://drive.google.com/file/d/1GHYxul1Gc1pv5ShVM1Gv2ZDf713Xo6q_/view?usp=sharing)
