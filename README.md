@@ -18,7 +18,11 @@ All AI models are run locally on-device, so it does not need an internet connect
 **Main Application:** [LibreOfficeAI](https://github.com/bthompson-dev/LibreOfficeAI)  
 **MCP Server:** [libre-office-mcp](https://github.com/bthompson-dev/libre-office-mcp)
 
-[![AI Assistant for LibreOffice - Demonstration Video](https://img.youtube.com/vi/Irl9qpCHv_0/0.jpg)](https://www.youtube.com/watch?v=Irl9qpCHv_0)
+<div align="center">
+<a href="https://www.youtube.com/watch?v=Irl9qpCHv_0">
+  <img src="https://github.com/bthompson-dev/SmolPC/blob/main/Assets/LibreOfficeAI%20Screenshot.png" alt="AI Assistant for LibreOffice - Demonstration Video" width="550"/>
+</a>
+</div>
 
 ### AI Assistant for TextLocator
 
